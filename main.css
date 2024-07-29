@@ -54,13 +54,18 @@
     cursor: pointer;
 }
 
-.control-container img {
-    height: 30px;
-    width: 30px;
+.control-container i {
+    /* height: 30px;
+    width: 30px; */
+    color: white;
 }
 
 #leave-btn {
     background-color: rgb(255, 80, 80, 1);
+}
+
+a {
+    text-decoration-line: none;
 }
 
 @media screen and (max-width:600px) {
